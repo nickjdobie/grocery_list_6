@@ -1,2 +1,3 @@
-# grocery_list_6
-activity 6
+    outline-color: black;
+    outline-width: 3px;
+    outline: solid;

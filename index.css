@@ -1,0 +1,62 @@
+body {
+    outline-color: black;
+    outline-width: 5px;
+    outline: solid;
+}
+
+h1 {
+    outline-color: black;
+    outline-width: 5px;
+    text-align: center;
+    color: rgb(1, 165, 64);
+    background-color: blanchedalmond;
+    padding: 0%;
+    margin: 0%;
+}
+
+h2 {
+    color: darkblue;
+    border: solid;
+    border-color: black;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+h3 {
+    text-decoration: underline;
+}
+
+.pantryitems {
+    width: 20%;
+    display: inline-block;
+}
+
+.freezeritems {
+    width: 20%;
+    display: inline-block;
+}
+
+.pics.pantryitems {
+    padding: 5%;
+}
+
+.pics.freezeritems {
+    padding: 5%;
+}
+
+ul {
+    text-align: center;
+    margin: 1%;
+    width: 15%;
+    background-color: antiquewhite;
+    border: 3px;
+    border-color: black;
+}
+
+ol {
+    text-align: center;
+    margin: 1%;
+    width: 15%;
+    background-color: antiquewhite;
+    border: 3px;
+    border-color: black;
+}
